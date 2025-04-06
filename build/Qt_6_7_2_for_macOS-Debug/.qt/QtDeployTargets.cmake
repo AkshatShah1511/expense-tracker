@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_ExpenseTracker_FILE /Users/akshat/Desktop/proj/ExpenseTracker/build/Qt_6_7_2_for_macOS-Debug/ExpenseTracker.app/Contents/MacOS/ExpenseTracker)
+set(__QT_DEPLOY_TARGET_ExpenseTracker_TYPE EXECUTABLE)
